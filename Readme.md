@@ -19,8 +19,7 @@ Sigue las instrucciones para configurar el entorno y instalar todas las dependen
 ### Clasificador
 
 Para probar el clasificador:
-1. Ejecuta el archivo `preprocess.py` que se encuentra en la carpeta del clasificador. Esto preparará los datos y generará una nueva estructura en la carpeta `data`.
-2. Para entrenar y testear el clasificador, ejecuta `classificador.py` pasándole por parámetro la ruta de la carpeta `data`.
+1. Para entrenar y testear el clasificador, ejecuta `classificador.py` pasándole por parámetro la ruta de la carpeta `data`.
 
 ### Autoencoder
 
