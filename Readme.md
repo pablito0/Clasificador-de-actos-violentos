@@ -26,7 +26,7 @@ Para probar el clasificador:
 
 Para probar el autoencoder:
 1. Ejecuta `preprocess.py` dentro de la carpeta del autoencoder, pasándole por argumento la ruta de los vídeos del dataset descargado.
-2. Ejecuta `train.py` para entrenar el modelo y `test.p`y para probarlo.
+2. Ejecuta `train.py` para entrenar el modelo y `test.py`y para probarlo.
 
 ## Dependencias
 
