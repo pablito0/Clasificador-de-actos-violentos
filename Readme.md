@@ -3,16 +3,11 @@
 Este proyecto consta de dos partes principales: un autoencoder y un clasificador. En las secciones correspondientes se explica cómo utilizar cada modelo.
 
 ## Contenido
-- [Instalación](#instalación)
 - [Uso](#uso)
   - [Clasificador](#clasificador)
   - [Autoencoder](#autoencoder)
 - [Dependencias](#dependencias)
 - [Licencia](#licencia)
-
-## Instalación
-
-Sigue las instrucciones para configurar el entorno y instalar todas las dependencias necesarias para ejecutar el proyecto.
 
 ## Uso
 
